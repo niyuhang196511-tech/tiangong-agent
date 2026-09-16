@@ -1,4 +1,5 @@
 from langchain.agents import create_agent
+from langchain.agents.middleware import SummarizationMiddleware
 from langchain_community.chat_models import ChatOpenAI
 from langgraph.checkpoint.redis import AsyncRedisSaver
 
@@ -21,7 +22,17 @@ async def create_supervisor_agent():
     agent = create_agent(
         model=llm,
         tools=[],
-        checkpointer=checkpointer # 短期记忆
+        checkpointer=checkpointer, # 短期记忆
+        store=None, # 长期记忆 记忆用户有价值数据
+        middleware=[
+            SummarizationMiddleware(
+                model=llm,
+                trigger=[
+                    ("tokens", 4000),
+                    ("messages", 6)
+                ]
+            ), # 会话总结中间件
+        ]
     )
 
     return agent
