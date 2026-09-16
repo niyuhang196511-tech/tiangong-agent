@@ -2748,3 +2748,331 @@ Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reas
 2026-09-16 17:54:25 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 724.96ms
 2026-09-16 17:54:38 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
 2026-09-16 17:54:38 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 17:54:51 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:54:51 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.48ms
+2026-09-16 17:55:05 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:55:05 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.51ms
+2026-09-16 17:55:18 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:55:18 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 17:55:31 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:55:31 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.51ms
+2026-09-16 17:55:44 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:55:44 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.61ms
+2026-09-16 17:55:57 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:55:57 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.47ms
+2026-09-16 17:56:10 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:56:10 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.54ms
+2026-09-16 17:56:23 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:56:23 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 17:56:37 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:56:37 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.47ms
+2026-09-16 17:56:50 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:56:50 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
+2026-09-16 17:57:03 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:57:03 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.62ms
+2026-09-16 17:57:16 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:57:16 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
+2026-09-16 17:57:29 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:57:29 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.93ms
+2026-09-16 17:57:42 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:57:42 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.59ms
+2026-09-16 17:57:55 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:57:55 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.57ms
+2026-09-16 17:58:08 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:58:08 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.65ms
+2026-09-16 17:58:22 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:58:22 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 10.91ms
+2026-09-16 17:58:35 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:58:35 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.89ms
+2026-09-16 17:58:48 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:58:48 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 17:59:01 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:59:01 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.60ms
+2026-09-16 17:59:14 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:59:14 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 7.31ms
+2026-09-16 17:59:27 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:59:27 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.06ms
+2026-09-16 17:59:40 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:59:40 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 2.68ms
+2026-09-16 17:59:54 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 17:59:54 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.48ms
+2026-09-16 18:00:07 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:00:07 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 2.31ms
+2026-09-16 18:00:20 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:00:20 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.46ms
+2026-09-16 18:00:33 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:00:33 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.82ms
+2026-09-16 18:00:50 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:00:51 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1510.60ms
+2026-09-16 18:01:07 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:01:07 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.83ms
+2026-09-16 18:01:20 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:01:20 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:01:33 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:01:33 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.78ms
+2026-09-16 18:01:46 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:01:46 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.58ms
+2026-09-16 18:01:59 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:01:59 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.57ms
+2026-09-16 18:02:12 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:02:12 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.50ms
+2026-09-16 18:02:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:02:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.70ms
+2026-09-16 18:02:46 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:02:46 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 48.00ms
+2026-09-16 18:03:02 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:03:02 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.75ms
+2026-09-16 18:03:15 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:03:15 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:03:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:03:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.68ms
+2026-09-16 18:03:41 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:03:41 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.51ms
+2026-09-16 18:03:55 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:03:55 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.45ms
+2026-09-16 18:04:08 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:04:08 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.48ms
+2026-09-16 18:04:21 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:04:21 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.74ms
+2026-09-16 18:04:34 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:04:34 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.76ms
+2026-09-16 18:04:47 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:04:47 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.91ms
+2026-09-16 18:05:00 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:05:00 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.78ms
+2026-09-16 18:05:13 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:05:13 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.82ms
+2026-09-16 18:05:26 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:05:26 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.60ms
+2026-09-16 18:05:40 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:05:40 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.74ms
+2026-09-16 18:05:53 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:05:53 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.05ms
+2026-09-16 18:06:06 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:06:06 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.01ms
+2026-09-16 18:06:19 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:06:19 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.86ms
+2026-09-16 18:06:32 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:06:32 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.62ms
+2026-09-16 18:06:45 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:06:45 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.92ms
+2026-09-16 18:06:58 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:06:58 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.57ms
+2026-09-16 18:07:11 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:07:11 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.63ms
+2026-09-16 18:07:24 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:07:24 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.74ms
+2026-09-16 18:07:37 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:07:37 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.42ms
+2026-09-16 18:07:51 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:07:51 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.50ms
+2026-09-16 18:08:04 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:08:04 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.81ms
+2026-09-16 18:08:17 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:08:17 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:08:30 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:08:30 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.51ms
+2026-09-16 18:08:43 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:08:43 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.00ms
+2026-09-16 18:08:56 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:08:56 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.60ms
+2026-09-16 18:09:09 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:09:09 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.80ms
+2026-09-16 18:09:23 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:09:23 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.88ms
+2026-09-16 18:09:36 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:09:36 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.67ms
+2026-09-16 18:09:49 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:09:49 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:10:02 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:10:02 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 5.89ms
+2026-09-16 18:10:15 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:10:15 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.45ms
+2026-09-16 18:10:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:10:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.58ms
+2026-09-16 18:10:41 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:10:41 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 3.67ms
+2026-09-16 18:10:54 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:10:54 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.85ms
+2026-09-16 18:11:08 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:11:08 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.47ms
+2026-09-16 18:11:21 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:11:21 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:11:34 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:11:34 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:11:47 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:11:47 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.79ms
+2026-09-16 18:12:00 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:12:00 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.19ms
+2026-09-16 18:12:13 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:12:13 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.48ms
+2026-09-16 18:12:26 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:12:26 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.82ms
+2026-09-16 18:12:39 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:12:39 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.61ms
+2026-09-16 18:12:53 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:12:53 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.93ms
+2026-09-16 18:13:06 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:13:06 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:13:19 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:13:19 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.74ms
+2026-09-16 18:13:32 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:13:32 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.95ms
+2026-09-16 18:13:45 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:13:45 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 3.63ms
+2026-09-16 18:13:58 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:14:01 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 2114.68ms
+2026-09-16 18:14:15 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:14:15 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 6.11ms
+2026-09-16 18:14:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:14:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.82ms
+2026-09-16 18:14:41 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:14:41 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.86ms
+2026-09-16 18:14:54 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:14:54 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.76ms
+2026-09-16 18:15:07 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:15:07 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.64ms
+2026-09-16 18:15:21 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:15:21 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.90ms
+2026-09-16 18:15:34 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:15:34 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:15:47 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:15:47 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.94ms
+2026-09-16 18:16:00 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:16:00 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.70ms
+2026-09-16 18:16:13 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:16:13 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.77ms
+2026-09-16 18:16:26 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:16:26 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:16:39 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:16:39 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.82ms
+2026-09-16 18:16:53 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:16:53 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.85ms
+2026-09-16 18:17:06 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:17:06 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.66ms
+2026-09-16 18:17:19 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:17:19 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 2.38ms
+2026-09-16 18:17:32 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:17:32 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.85ms
+2026-09-16 18:17:45 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:17:45 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.47ms
+2026-09-16 18:17:58 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:17:58 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.69ms
+2026-09-16 18:18:11 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:18:11 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.80ms
+2026-09-16 18:18:24 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:18:24 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:18:38 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:18:38 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.61ms
+2026-09-16 18:18:51 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:18:51 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.43ms
+2026-09-16 18:19:04 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:19:04 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.14ms
+2026-09-16 18:19:17 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:19:17 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.45ms
+2026-09-16 18:19:30 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:19:30 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.45ms
+2026-09-16 18:19:43 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:19:43 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.48ms
+2026-09-16 18:19:56 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:19:56 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.47ms
+2026-09-16 18:20:10 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:20:10 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.54ms
+2026-09-16 18:20:23 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:20:23 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.70ms
+2026-09-16 18:20:36 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:20:36 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.96ms
+2026-09-16 18:20:49 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:20:49 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 2.02ms
+2026-09-16 18:21:02 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:21:02 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.97ms
+2026-09-16 18:21:15 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:21:15 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.51ms
+2026-09-16 18:21:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:21:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.60ms
+2026-09-16 18:21:42 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:21:42 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.78ms
+2026-09-16 18:21:55 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:21:55 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.85ms
+2026-09-16 18:22:08 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:22:08 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.85ms
+2026-09-16 18:22:21 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:22:21 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 3.63ms
+2026-09-16 18:22:34 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:22:34 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 1.29ms
+2026-09-16 18:22:47 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:22:47 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.89ms
+2026-09-16 18:23:00 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:23:00 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.73ms
+2026-09-16 18:23:13 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:23:13 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.69ms
+2026-09-16 18:23:27 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:23:27 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.84ms
+2026-09-16 18:23:40 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:23:40 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.80ms
+2026-09-16 18:23:53 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:23:53 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:24:06 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:24:06 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.86ms
+2026-09-16 18:24:19 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:24:19 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.77ms
+2026-09-16 18:24:32 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:24:32 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.52ms
+2026-09-16 18:24:45 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:24:45 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.61ms
+2026-09-16 18:24:58 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:24:58 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.60ms
+2026-09-16 18:25:12 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:25:12 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.44ms
+2026-09-16 18:25:25 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:25:25 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.50ms
+2026-09-16 18:25:38 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:25:38 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
+2026-09-16 18:25:51 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:25:51 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.58ms
+2026-09-16 18:26:04 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:26:04 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
+2026-09-16 18:26:17 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:26:17 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.71ms
+2026-09-16 18:26:30 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:26:30 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.52ms
+2026-09-16 18:26:43 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:26:43 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.48ms
+2026-09-16 18:26:56 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:26:56 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:27:10 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:27:10 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.68ms
+2026-09-16 18:27:23 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:27:23 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.64ms
+2026-09-16 18:27:36 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:27:36 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.54ms
+2026-09-16 18:27:49 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:27:49 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.46ms
+2026-09-16 18:28:02 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:28:02 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.54ms
+2026-09-16 18:28:15 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:28:15 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:28:28 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:28:28 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:28:41 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:28:41 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.63ms
+2026-09-16 18:28:55 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:28:55 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
+2026-09-16 18:29:08 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:29:08 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.68ms
+2026-09-16 18:29:21 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:29:21 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:29:34 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:29:34 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:29:47 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:29:47 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.46ms
+2026-09-16 18:30:00 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:30:00 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.46ms
+2026-09-16 18:30:13 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:30:13 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.49ms
+2026-09-16 18:30:26 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:30:26 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.45ms
+2026-09-16 18:30:40 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:30:40 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.56ms
+2026-09-16 18:30:53 | INFO     | src.middlewares.logging:dispatch:12 - --> GET /c_hello
+2026-09-16 18:30:53 | INFO     | src.middlewares.logging:dispatch:19 - <-- GET /c_hello status=404 0.55ms
